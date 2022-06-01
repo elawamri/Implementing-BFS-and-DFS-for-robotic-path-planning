@@ -28,7 +28,7 @@ point _(Start)_ and **[180,620]** as an ending point _(Goal)_ , the map is updat
 **[0,0]** as initial point _(Start)_ to point **[5,5]** as ending point _(Goal)_ , and as we see the path isn’t optimal at all
 however we reached to our goal at the end.
 
-![BFS_Ex2](https://user-images.githubusercontent.com/105011124/171450151-46619bd5-7b6a-483a-a355-ef5b258c574d.png)
+![BFS_Ex2](https://github.com/elawamri/Implementing-BFS-and-DFS-for-robotic-path-planning/blob/master/Paths/DFS_EX2.png?raw=true)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/105011124/171453434-75faf015-21cc-4973-aad7-bfc8310dd2c9.png">
